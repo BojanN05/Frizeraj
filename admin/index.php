@@ -60,14 +60,14 @@ require 'layout/header.php';
     
     <div class="row g-4 mb-5">
         <div class="col-md-3">
-            <a href="user.php" class="card text-center p-4 shadow-sm text-decoration-none bg-light fw-bold">👤 Korisnici</a>
+            <a href="user.php" class="card text-center p-4 shadow-sm text-decoration-none bg-light fw-bold"> Korisnici</a>
         </div>
         <div class="col-md-3">
-            <a href="bookings.php" class="card text-center p-4 shadow-sm text-decoration-none bg-light fw-bold">📅 Rezervacije</a>
+            <a href="bookings.php" class="card text-center p-4 shadow-sm text-decoration-none bg-light fw-bold"> Rezervacije</a>
         </div>
 
         <div class="col-md-3">
-    <a href="add_product.php" class="card text-center p-4 shadow-sm text-decoration-none bg-light fw-bold">📦 Dodaj Proizvod</a>
+    <a href="add_product.php" class="card text-center p-4 shadow-sm text-decoration-none bg-light fw-bold"> Dodaj Proizvod</a>
     </div>
         
         <div class="col-md-4">

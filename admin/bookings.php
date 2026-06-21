@@ -63,9 +63,7 @@ $result = $conn->query($query);
                     </td>
 
                     <td>
-                        <a href="delete_book.php?id=<?= $row['id_book'] ?>"
-                           class="btn btn-sm btn-outline-danger"
-                           onclick="return confirm('Obrisati rezervaciju?')">
+                        <a href="delete_book.php?id=<?= $row['id_book'] ?>" class="btn btn-sm btn-outline-danger">
                            Obriši
                         </a>
                     </td>
